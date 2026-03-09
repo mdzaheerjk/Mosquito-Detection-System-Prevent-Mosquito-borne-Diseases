@@ -1,4 +1,5 @@
 # Mosquito-Detection-System-Prevent-Mosquito-borne-Diseases
+Mosquito Detection System is an end-to-end computer vision application that detects mosquitoes in images and live camera feeds using the YOLOv5 object detection model. It helps support public health efforts by enabling early monitoring of mosquito presence to reduce risks of diseases like Dengue, Malaria, Zika, and Chikungunya.
 
 <p align="center">
   <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_l0hbj5l0hbj5l0hb.jpg"
